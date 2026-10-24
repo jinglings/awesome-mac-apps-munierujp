@@ -18,6 +18,7 @@ My favorite macOS applications
 - [HyperDock](https://bahoom.com/hyperdock)
 - [HyperSwitch](https://bahoom.com/hyperswitch)
 - [KeyCastr](https://github.com/keycastr/keycastr)
+- [MacClean](https://thulem.com/) — Free native Mac cleaner for WeChat/QQ/WeCom media, Storage Map, and Xcode/AI caches (review-before-delete)
 - [Magnet](https://itunes.apple.com/app/id441258766)
 - [MenubarX](https://apps.apple.com/app/id1575588022)
 - [Nani](https://nani.now/ja)
